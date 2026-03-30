@@ -22,6 +22,10 @@ Logré identificar las empresas de taxis más populares, los barrios con mayor d
 ### Stack: 
 SQL, Python, Análisis Estadístico, Pruebas de Hipótesis.
 
+<img width="1157" height="702" alt="download" src="https://github.com/user-attachments/assets/66786697-4995-4940-88bb-abe50ea63e74" />
+<img width="1364" height="790" alt="download" src="https://github.com/user-attachments/assets/452194a3-a37b-4e64-a9e0-a7be5cf6daa1" />
+<img width="1385" height="989" alt="download" src="https://github.com/user-attachments/assets/0bc17840-6b04-4ed4-ad70-4acd1cf91e1d" />
+
 ## Título: Análisis de segmentación de clientes para programa de fidelización
 
 ### Problema: 
@@ -35,3 +39,9 @@ Logré identificar patrones de comportamiento de compra por categorías y grupos
 
 ### Stack: 
 Python, Análisis de Datos, Limpieza de Datos, KPIs.
+
+<img width="1185" height="590" alt="download" src="https://github.com/user-attachments/assets/1ab2c033-1d10-48b9-a610-b8ce67ff9948" />
+<img width="2473" height="989" alt="download" src="https://github.com/user-attachments/assets/5eda2de9-f015-4f11-a73a-6aa3a3a74d81" />
+<img width="1189" height="490" alt="download" src="https://github.com/user-attachments/assets/0fe089b8-faa2-4f77-b319-eeca513c10c5" />
+
+
