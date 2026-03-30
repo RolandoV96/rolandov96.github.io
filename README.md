@@ -1,6 +1,6 @@
 # Portafolio Rolando Villarreal
 
-##Contacto: 
+## Contacto: 
 Rolando.villarreal96@gmail.com / www.linkedin.com/in/rolando-villarreal96
 
 ## Sobre mi
